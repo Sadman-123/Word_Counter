@@ -1,0 +1,36 @@
+.hdng{
+    text-align: center;
+}
+.hdng h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+.hdng i#lol{
+    margin-right: 8px;
+    text-decoration: none;
+    color: black;
+}
+.inpt {
+    text-align: center;
+    margin-top: 20px;
+}
+.inpt input{
+    padding: 10px;
+}
+.out{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.splsh{
+    text-align: center;
+}
+.splsh h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 70px;
+}
+.splsh i{
+    font-size: 60px;
+    text-decoration: none;
+    color: black;
+}
