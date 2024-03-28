@@ -57,4 +57,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to the React community for providing valuable resources and documentation.
 
 ## Contact
-For any inquiries or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or feedback, please contact [fareless.ranger@gmail.com](mailto:fareless.ranger@gmail.com).
