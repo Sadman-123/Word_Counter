@@ -18,7 +18,7 @@ To run this application locally, follow these steps:
 
 1. Clone this repository to your local machine:
     ```
-    git clone <repository_url>
+    git clone <https://github.com/Sadman-123/Word_Counter.git>
     ```
 
 2. Navigate to the project directory:
@@ -33,10 +33,10 @@ To run this application locally, follow these steps:
 
 4. Start the development server:
     ```
-    npm start
+    npm run dev
     ```
 
-5. Open your web browser and visit `http://localhost:3000` to view the application.
+5. Open your web browser and visit `http://localhost:5174` to view the application.
 
 ## Usage
 1. Enter the text you want to analyze into the input field.
@@ -44,7 +44,8 @@ To run this application locally, follow these steps:
 3. To clear the input field and reset the word count, click the "Clear" button.
 
 ## Screenshots
-![Screenshot](/path/to/screenshot.png)
+![Screenshot](/assets/s1.png)
+![Screenshot](/assets/s2.png)
 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
