@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 const Splash = () => {
   return (
     <div className='splsh'>
-<h1>Welcome</h1>
+<h1>স্বাগতম</h1>
 <Link to='/word_counter'>
 <i class="fa-solid fa-circle-chevron-right"></i>
 </Link>
