@@ -1,12 +1,21 @@
 import React from 'react'
 import '../CSS/style.css'
+import { Link } from 'react-router-dom'
 const Nav = () => {
   return (
     <div className='navbar'>
-<a class="active" href="#"><i class="fa-solid fa-house"></i>Home</a>
-  <a href="#"><i class="fa-solid fa-clock"></i>Clock</a>
-  <a href="#"><i class="fa-solid fa-palette"></i>Colors</a>
-  <a href="#"><i class="fa-solid fa-circle-info"></i>About</a>
+  <Link class="active" to="/">
+    <i class="fa-solid fa-house"></i>Home
+    </Link>
+  <Link to="/clock"><i class="fa-solid fa-clock">
+    </i>Clock
+  </Link>
+  <Link to="/color">
+    <i class="fa-solid fa-palette"></i>Colors
+    </Link>
+  <Link to="/about">
+    <i class="fa-solid fa-circle-info"></i>About
+    </Link>
     </div>
   )
 }
