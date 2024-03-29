@@ -56,3 +56,11 @@
 .navbar i{
     margin: 4px;
 }
+.clk{
+    margin-top: 50px;
+    text-align: center;
+}
+.clk h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 70px;
+}
