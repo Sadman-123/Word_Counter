@@ -40,6 +40,8 @@
   }
   .navbar a {
     float: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
     display: block;
     color: black;
     text-align: center;
@@ -51,3 +53,6 @@
     background-color: #ddd;
     color: black;
   }
+.navbar i{
+    margin: 4px;
+}
