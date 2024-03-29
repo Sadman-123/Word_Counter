@@ -16,6 +16,9 @@ const Nav = () => {
   <Link to="/about">
     <i class="fa-solid fa-circle-info"></i>About
     </Link>
+    <Link to='/'>
+    <i class="fa-solid fa-right-from-bracket"></i>Logout
+    </Link>
     </div>
   )
 }
