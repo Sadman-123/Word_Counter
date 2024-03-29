@@ -64,3 +64,24 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 70px;
 }
+.clr{
+    text-align: center;
+}
+.clr h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+}
+.clr .container{
+    display: flex;
+    justify-content: center;
+}
+.clr .clrcanvas{
+    background-color: rgb(241, 237, 237);
+    padding: 40px;
+    width: 200px;
+    box-shadow: 2px 4px 4px gray;
+    border-radius: 30px;
+}
+.clr h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
