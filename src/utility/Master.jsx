@@ -5,9 +5,11 @@ import Color from '../pages/Color'
 import Clock from '../pages/Clock'
 import About from '../pages/About'
 import App from '../App'
+import Nav from '../pages/Nav'
 const Master = () => {
   return (
     <div>
+      <Nav/>
         <BrowserRouter>
         <Routes>
             <Route path='/' element={<Splash/>}/>
