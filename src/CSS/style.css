@@ -34,3 +34,20 @@
     text-decoration: none;
     color: black;
 }
+.navbar {
+    background-color: #ffffff;
+    overflow: hidden;
+  }
+  .navbar a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
