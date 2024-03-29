@@ -1,8 +1,11 @@
 import React, { useState } from 'react'
 import '../CSS/style.css'
+import Nav from './Nav'
 const Color = () => {
     const [clr,setclr]=useState("Color Code");
   return (
+    <>
+    <Nav/>
     <div className='clr'>
 <h1>Color Picker</h1>
 <div className="container">
@@ -17,6 +20,7 @@ const Color = () => {
 </div>
 </div>
     </div>
+    </>
   )
 }
 
