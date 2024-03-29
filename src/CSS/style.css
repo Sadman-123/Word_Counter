@@ -85,3 +85,15 @@
 .clr h2{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.abt{
+    margin: 20px;
+}
+.abt h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.abt h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.abt i{
+    margin-right: 10px;
+}

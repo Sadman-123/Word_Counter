@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import '../CSS/style.css'
 import Nav from './Nav'
 const Clock = () => {
-const [time,settime]=useState("");
+const [time,settime]=useState("😇 Loading...");
 let xx=()=>{
     settime(new Date().toLocaleTimeString())
 }
