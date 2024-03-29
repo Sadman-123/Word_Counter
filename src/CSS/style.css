@@ -57,15 +57,9 @@
     margin: 4px;
 }
 /*when mobile view adjust navbar size*/
-@media screen and (max-width: 600px) {
-    .navbar a {
-      float: none;
-      display: block;
-    }
-  }
+
   .navbar a.active {
-    background-color: #04AA6D;
-    color: white;
+    color: black;
   }
   .navbar-right {
     float: right;
@@ -91,13 +85,15 @@
   .navbar-right i{
     margin: 4px;
 }
+/*when mobile view navbar will be hidden with hamburger button*/
+    
 .clk{
     margin-top: 50px;
     text-align: center;
 }
 .clk h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 70px;
+    font-size: 50px;
 }
 .clr{
     text-align: center;
