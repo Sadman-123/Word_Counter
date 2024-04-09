@@ -57,8 +57,6 @@
 .navbar i{
     margin: 4px;
 }
-/*when mobile view adjust navbar size*/
-
   .navbar a.active {
     color: black;
   }
