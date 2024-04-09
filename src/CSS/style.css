@@ -127,3 +127,15 @@
 .abt i{
     margin-right: 10px;
 }
+.hlw{
+    display: flex;
+    justify-content: center;
+
+}
+.hlw i{
+    margin-left: 10px;
+    padding: 10px;
+}
+.hlw input{
+    padding: 10px;
+}
